@@ -1,9 +1,9 @@
-# MasterProject
+# Personalized Job Recommendation System
 
 ### Installation
 ```
-git clone https://github.com/KunSu/MasterProject.git
-cd MasterProject
+git clone https://github.com/KunSu/Personalized-Job-Recommendation-System.git
+cd Personalized-Job-Recommendation-System
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
