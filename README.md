@@ -40,7 +40,7 @@ How to pull your conda dependencies into requirements.txt and etc
 ```
 conda list -e > requirements.txt
 conda deactivate
-conda remove venv
+conda remove conda-venv
 ```
 
 Git Workflow 
