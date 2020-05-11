@@ -130,4 +130,4 @@ dmypy.json
 
 # data files
 data/raw_data/*
-data/sample_data/*
+# data/sample_data/*
