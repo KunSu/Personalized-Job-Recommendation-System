@@ -6,7 +6,7 @@ git clone https://github.com/KunSu/Personalized-Job-Recommendation-System.git
 cd Personalized-Job-Recommendation-System
 ```
 
-### For giving the sample data
+### Unzip the sample data
 unzip the "sample_data.zip" under the data folder
 
 ### For Python:
